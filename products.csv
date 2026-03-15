@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,price,rating,reviews,discount_percent
+1,Apple Product 1,Sports,Apple,3478,4.4,2011,28
+2,Apple Product 2,Fashion,Apple,71682,2.7,3461,4
+3,Apple Product 3,Electronics,Apple,28857,3.1,4936,3
+4,Adidas Product 4,Beauty,Adidas,71626,3.5,3684,35
+5,Nike Product 5,Electronics,Nike,55592,3.4,1278,27
+6,Apple Product 6,Home & Kitchen,Apple,12356,3.4,2945,44
+7,Puma Product 7,Beauty,Puma,5895,4.3,4397,15
+8,Apple Product 8,Books,Apple,72557,3.2,2967,24
+9,Apple Product 9,Sports,Apple,6206,4.2,2375,10
+10,Apple Product 10,Fashion,Apple,50023,3.2,2993,20
+11,Philips Product 11,Home & Kitchen,Philips,27660,4.2,589,21
+12,Adidas Product 12,Beauty,Adidas,21617,3.7,2216,28
+13,Philips Product 13,Sports,Philips,7531,3.1,267,40
+14,Puma Product 14,Books,Puma,8875,3.0,4651,40
+15,Boat Product 15,Fashion,Boat,52056,4.7,3763,18
+16,Nike Product 16,Home & Kitchen,Nike,32525,4.4,4420,33
+17,Lenovo Product 17,Sports,Lenovo,56355,4.7,3276,46
+18,Nike Product 18,Fashion,Nike,66984,3.7,390,14
+19,Nike Product 19,Fashion,Nike,55533,4.0,3157,48
+20,Boat Product 20,Beauty,Boat,69552,3.1,4537,1
+21,Apple Product 21,Sports,Apple,70581,4.4,2791,14
+22,Sony Product 22,Home & Kitchen,Sony,20930,3.6,2162,64
+23,LG Product 23,Fashion,LG,14147,4.7,2449,64
+24,Adidas Product 24,Beauty,Adidas,20232,3.4,1328,69
+25,Samsung Product 25,Beauty,Samsung,78704,3.3,164,14
+26,Puma Product 26,Home & Kitchen,Puma,31585,2.6,4652,10
+27,Boat Product 27,Electronics,Boat,9271,4.9,4368,16
+28,Boat Product 28,Fashion,Boat,72263,2.9,4327,54
+29,LG Product 29,Fashion,LG,26565,4.3,3273,47
+30,LG Product 30,Books,LG,59377,2.8,1845,8
+31,Samsung Product 31,Home & Kitchen,Samsung,77310,3.9,4825,28
+32,Apple Product 32,Electronics,Apple,7916,3.1,262,42
+33,LG Product 33,Electronics,LG,31395,3.2,3981,27
+34,Nike Product 34,Beauty,Nike,75047,3.9,1995,60
+35,Adidas Product 35,Books,Adidas,12563,2.7,3536,45
+36,Sony Product 36,Books,Sony,61413,4.7,448,12
+37,Sony Product 37,Electronics,Sony,44673,4.5,900,31
+38,Adidas Product 38,Fashion,Adidas,70492,3.6,3461,23
+39,Boat Product 39,Home & Kitchen,Boat,32942,4.7,622,56
+40,Apple Product 40,Beauty,Apple,6830,4.1,4433,1
+41,Adidas Product 41,Electronics,Adidas,21998,3.5,3948,27
+42,Samsung Product 42,Books,Samsung,21779,3.4,3203,33
+43,Puma Product 43,Books,Puma,55644,4.2,4557,62
+44,Adidas Product 44,Fashion,Adidas,39090,3.0,484,69
+45,Philips Product 45,Electronics,Philips,7692,2.6,3910,64
+46,Nike Product 46,Beauty,Nike,7655,4.9,661,23
+47,Lenovo Product 47,Electronics,Lenovo,9107,4.2,1931,51
+48,Lenovo Product 48,Electronics,Lenovo,32471,3.9,330,10
+49,Lenovo Product 49,Books,Lenovo,74285,3.8,2141,26
+50,Philips Product 50,Sports,Philips,31485,3.2,1077,38
+51,Philips Product 51,Books,Philips,9708,2.5,4617,12
+52,LG Product 52,Electronics,LG,28138,3.8,1090,44
+53,Adidas Product 53,Electronics,Adidas,48634,3.2,3594,69
+54,Puma Product 54,Sports,Puma,69529,2.5,4548,38
+55,Apple Product 55,Sports,Apple,17801,3.2,881,70
+56,Puma Product 56,Fashion,Puma,37130,4.0,2813,26
+57,Puma Product 57,Sports,Puma,66444,3.7,421,11
+58,Sony Product 58,Sports,Sony,36465,2.6,2737,16
+59,Puma Product 59,Sports,Puma,21378,4.4,4524,54
+60,Samsung Product 60,Beauty,Samsung,14863,2.7,1226,69
+61,Philips Product 61,Electronics,Philips,76550,3.9,3525,16
+62,Puma Product 62,Electronics,Puma,47995,4.7,331,45
+63,Adidas Product 63,Fashion,Adidas,13673,3.4,4591,52
+64,Nike Product 64,Beauty,Nike,31229,4.7,1455,52
+65,Nike Product 65,Electronics,Nike,43740,4.5,3377,31
+66,Nike Product 66,Home & Kitchen,Nike,14368,3.5,322,60
+67,Adidas Product 67,Fashion,Adidas,60532,3.4,1869,28
+68,Adidas Product 68,Electronics,Adidas,52427,3.3,573,35
+69,LG Product 69,Home & Kitchen,LG,52586,4.2,4397,42
+70,Apple Product 70,Electronics,Apple,34437,2.9,2179,4
+71,Lenovo Product 71,Electronics,Lenovo,57159,3.4,2574,55
+72,LG Product 72,Beauty,LG,15357,3.5,4728,24
+73,Samsung Product 73,Home & Kitchen,Samsung,57354,2.5,4415,25
+74,Sony Product 74,Home & Kitchen,Sony,9371,4.9,2709,40
+75,Apple Product 75,Sports,Apple,39563,3.8,3350,41
+76,Puma Product 76,Books,Puma,72867,2.8,3449,48
+77,Nike Product 77,Sports,Nike,74793,3.3,4493,0
+78,Puma Product 78,Home & Kitchen,Puma,27749,3.6,4756,41
+79,Boat Product 79,Books,Boat,58154,4.2,4192,60
+80,Nike Product 80,Sports,Nike,11314,3.2,2750,11
+81,Puma Product 81,Fashion,Puma,29644,4.5,1212,3
+82,Adidas Product 82,Electronics,Adidas,62477,4.0,601,58
+83,Lenovo Product 83,Books,Lenovo,25685,4.3,3150,63
+84,Adidas Product 84,Books,Adidas,19542,4.1,50,13
+85,Adidas Product 85,Books,Adidas,23253,4.5,4248,59
+86,LG Product 86,Electronics,LG,32862,4.8,999,58
+87,Boat Product 87,Fashion,Boat,69816,5.0,4882,40
+88,Lenovo Product 88,Books,Lenovo,66362,3.6,4493,57
+89,Boat Product 89,Fashion,Boat,59191,3.1,2030,35
+90,Boat Product 90,Beauty,Boat,31558,3.2,639,36
+91,Puma Product 91,Fashion,Puma,44220,3.3,4429,10
+92,Nike Product 92,Fashion,Nike,30511,3.5,1256,27
+93,Sony Product 93,Electronics,Sony,53624,3.3,3821,53
+94,Adidas Product 94,Electronics,Adidas,55269,3.5,4789,2
+95,Sony Product 95,Beauty,Sony,62718,2.5,2886,38
+96,Sony Product 96,Books,Sony,70745,4.4,4478,28
+97,Adidas Product 97,Books,Adidas,35974,3.6,242,49
+98,Sony Product 98,Home & Kitchen,Sony,21832,4.6,1050,68
+99,Sony Product 99,Electronics,Sony,77780,3.9,227,10
+100,Sony Product 100,Sports,Sony,17986,4.7,1493,6
+101,Sony Product 101,Home & Kitchen,Sony,43106,3.0,2682,43
+102,Puma Product 102,Books,Puma,55455,3.1,675,60
+103,LG Product 103,Electronics,LG,7026,5.0,2871,28
+104,Apple Product 104,Sports,Apple,5476,4.4,2030,25
+105,Lenovo Product 105,Electronics,Lenovo,20173,3.1,3884,14
+106,Adidas Product 106,Beauty,Adidas,61152,4.2,3026,21
+107,Lenovo Product 107,Beauty,Lenovo,15212,4.4,1346,39
+108,Lenovo Product 108,Electronics,Lenovo,3565,4.8,4721,48
+109,Adidas Product 109,Books,Adidas,10161,4.0,1994,13
+110,Puma Product 110,Sports,Puma,78897,4.5,4641,5
+111,LG Product 111,Home & Kitchen,LG,56348,4.2,569,64
+112,Philips Product 112,Sports,Philips,1858,4.6,4020,13
+113,Philips Product 113,Books,Philips,60458,4.3,3572,22
+114,LG Product 114,Sports,LG,35600,4.0,4413,61
+115,Sony Product 115,Books,Sony,77856,3.2,2016,11
+116,Boat Product 116,Home & Kitchen,Boat,32163,4.4,4673,48
+117,Samsung Product 117,Home & Kitchen,Samsung,64989,4.6,1494,62
+118,Philips Product 118,Fashion,Philips,34062,3.4,4888,35
+119,Samsung Product 119,Beauty,Samsung,67915,4.9,706,30
+120,Sony Product 120,Sports,Sony,64238,3.9,1973,60
+121,Boat Product 121,Sports,Boat,58943,4.5,767,37
+122,Sony Product 122,Fashion,Sony,32090,3.3,4769,47
+123,LG Product 123,Books,LG,69788,3.4,4513,42
+124,Boat Product 124,Home & Kitchen,Boat,35709,3.3,1893,15
+125,Adidas Product 125,Sports,Adidas,41559,2.8,4394,23
+126,Adidas Product 126,Fashion,Adidas,63664,3.2,4834,67
+127,Puma Product 127,Beauty,Puma,13376,4.6,2431,29
+128,Nike Product 128,Home & Kitchen,Nike,39818,2.5,4380,16
+129,Samsung Product 129,Home & Kitchen,Samsung,7346,3.9,1039,62
+130,Samsung Product 130,Electronics,Samsung,75443,3.2,3926,56
+131,Nike Product 131,Home & Kitchen,Nike,6934,3.1,3918,14
+132,Sony Product 132,Electronics,Sony,64654,2.7,444,19
+133,Lenovo Product 133,Fashion,Lenovo,40024,2.7,2038,15
+134,Sony Product 134,Beauty,Sony,79671,4.0,1853,66
+135,Boat Product 135,Books,Boat,58228,3.2,4826,54
+136,Lenovo Product 136,Home & Kitchen,Lenovo,8094,4.0,817,26
+137,Adidas Product 137,Sports,Adidas,34887,4.2,1291,30
+138,LG Product 138,Fashion,LG,10038,2.9,3351,57
+139,Lenovo Product 139,Sports,Lenovo,61792,3.2,1901,36
+140,Puma Product 140,Sports,Puma,59710,2.7,1917,33
+141,Lenovo Product 141,Sports,Lenovo,26128,3.6,4466,28
+142,Nike Product 142,Sports,Nike,35016,4.6,589,7
+143,Puma Product 143,Fashion,Puma,78193,4.4,4667,36
+144,Apple Product 144,Books,Apple,61633,4.2,3302,34
+145,LG Product 145,Beauty,LG,64922,3.6,4904,5
+146,Philips Product 146,Books,Philips,79329,3.1,753,29
+147,Lenovo Product 147,Sports,Lenovo,77155,4.9,2212,5
+148,Boat Product 148,Fashion,Boat,68221,4.1,2283,23
+149,Sony Product 149,Beauty,Sony,64651,4.9,3855,44
+150,Philips Product 150,Books,Philips,42281,4.2,1322,42
+151,Boat Product 151,Books,Boat,37977,4.2,3285,70
+152,Boat Product 152,Electronics,Boat,11742,3.3,2653,14
+153,LG Product 153,Books,LG,350,4.1,4449,59
+154,Samsung Product 154,Books,Samsung,24786,3.8,4088,56
+155,Adidas Product 155,Electronics,Adidas,35203,3.9,2364,56
+156,Boat Product 156,Sports,Boat,16115,2.6,4992,30
+157,Nike Product 157,Sports,Nike,40930,3.9,4529,52
+158,Adidas Product 158,Electronics,Adidas,15071,3.7,967,19
+159,Puma Product 159,Books,Puma,66898,4.3,3408,61
+160,Adidas Product 160,Books,Adidas,60071,3.9,3147,24
+161,LG Product 161,Beauty,LG,18092,4.7,2268,53
+162,LG Product 162,Home & Kitchen,LG,35218,4.6,2322,38
+163,Lenovo Product 163,Beauty,Lenovo,64378,4.7,3663,68
+164,Philips Product 164,Books,Philips,43773,3.9,4456,48
+165,Philips Product 165,Books,Philips,24927,5.0,1961,49
+166,Sony Product 166,Fashion,Sony,5920,3.3,3879,48
+167,Nike Product 167,Books,Nike,65123,4.9,1039,64
+168,Philips Product 168,Beauty,Philips,13354,4.7,3611,12
+169,Boat Product 169,Beauty,Boat,2211,4.3,3363,19
+170,Boat Product 170,Electronics,Boat,34937,3.3,3261,10
+171,LG Product 171,Home & Kitchen,LG,50008,4.9,4002,69
+172,Lenovo Product 172,Electronics,Lenovo,9168,3.1,2359,29
+173,Apple Product 173,Sports,Apple,57081,4.9,828,56
+174,Puma Product 174,Fashion,Puma,3994,2.6,464,37
+175,Philips Product 175,Home & Kitchen,Philips,56650,2.9,4356,52
+176,Nike Product 176,Beauty,Nike,22480,2.9,4997,48
+177,Adidas Product 177,Beauty,Adidas,65430,4.8,1177,29
+178,Puma Product 178,Books,Puma,60436,3.1,81,59
+179,LG Product 179,Home & Kitchen,LG,20906,2.7,2835,38
+180,Sony Product 180,Sports,Sony,32980,3.6,2479,25
+181,Boat Product 181,Books,Boat,14179,3.1,4690,45
+182,Puma Product 182,Beauty,Puma,38896,2.6,3247,35
+183,Lenovo Product 183,Electronics,Lenovo,6628,4.8,4074,36
+184,Lenovo Product 184,Fashion,Lenovo,46379,3.0,1562,32
+185,Nike Product 185,Sports,Nike,12935,4.8,327,39
+186,Samsung Product 186,Books,Samsung,76165,3.4,1081,11
+187,Philips Product 187,Home & Kitchen,Philips,54660,2.9,1087,69
+188,LG Product 188,Home & Kitchen,LG,65971,4.8,1352,32
+189,Puma Product 189,Books,Puma,44596,4.5,3841,9
+190,Adidas Product 190,Fashion,Adidas,52289,4.9,4570,46
+191,Sony Product 191,Electronics,Sony,2024,3.2,1017,58
+192,Puma Product 192,Home & Kitchen,Puma,76819,3.5,3048,13
+193,Adidas Product 193,Sports,Adidas,61997,2.6,4604,41
+194,Adidas Product 194,Beauty,Adidas,8485,4.1,3808,38
+195,Sony Product 195,Sports,Sony,15492,2.8,309,38
+196,Apple Product 196,Books,Apple,12939,3.1,4408,17
+197,Boat Product 197,Books,Boat,48829,4.2,4430,53
+198,Nike Product 198,Beauty,Nike,54579,4.1,4013,52
+199,Samsung Product 199,Home & Kitchen,Samsung,48766,3.0,3647,30
+200,Apple Product 200,Home & Kitchen,Apple,48347,3.9,2943,7
